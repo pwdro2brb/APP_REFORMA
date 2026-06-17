@@ -6,5 +6,8 @@ env/
 __pycache__/
 *.pyc
 
-# Arquivos de variáveis de ambiente (senhas, chaves de API)
+# Arquivos de variáveis de ambiente
 .env
+
+# Banco de dados local simulado
+banco_mock.json
